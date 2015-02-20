@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Explosion.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Timer.cs" Line="49" Column="20" />
+      <File FileName="..\Parlan\Assets\Scripts\TextFields.cs" Line="1" Column="1" />
+      <File FileName="..\Parlan\Assets\Scripts\CrisisCheck.cs" Line="1" Column="1" />
+      <File FileName="..\Parlan\Assets\Scripts\PageSystem\ItemVariables.cs" Line="1" Column="1" />
+      <File FileName="..\Parlan\Assets\Username.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Placement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StartScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CheckPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Collision.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EndColl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Follow_finger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\DebugInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\Disable_Home.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Audio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Animate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Dejorden\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" Line="1" Column="1" />
+      <File FileName="Assets\Explosion.cs" Line="10" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
